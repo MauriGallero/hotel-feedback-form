@@ -18,3 +18,18 @@ Formulario de feedback para hotel construido con HTML semántico y CSS moderno. 
 - CSS3 (sin frameworks)
 
 ### 📂 Estructura
+hotel-feedback-form/
+├── index.html
+├── styles.css
+└── README.md
+
+
+
+### 🚀 Cómo correrlo
+Solo abrí `index.html` en tu navegador. No necesita instalación.
+
+### 📚 Qué practiqué
+Lo más útil de HTML en el mundo laboral: formularios complejos, accesibles y bien validados. Base para logins, checkouts y dashboards.
+
+---
+Hecho por MauriGallero - Estudiando Desarrollo Web
