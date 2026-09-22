@@ -3,7 +3,7 @@
 Formulario de feedback para hotel construido con HTML semántico y CSS moderno. Proyecto del curriculum de freeCodeCamp - Responsive Web Design.
 
 ### 🔗 Live Demo
-[Ver demo en GitHub Pages](https://MauriGallero.github.io/hotel-feedback-form/)
+https://MauriGallero.github.io/hotel-feedback-form/
 
 ### ✨ Features
 - Estructura 100% semántica (`header`, `main`, `fieldset`, `legend`)
